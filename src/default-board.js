@@ -7,19 +7,19 @@ export default {
       name: 'todo', // name of the board
       tasks: [
         {
-          description: '',
+          description: 'Test description',
           name: 'first task',
           id: uuid(),
           userAssigned: null
         },
         {
-          description: '',
+          description: 'Test description',
           name: 'second task',
           id: uuid(),
           userAssigned: null
         },
         {
-          description: '',
+          description: 'Test description',
           name: 'and thrid',
           id: uuid(),
           userAssigned: null
